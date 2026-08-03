@@ -1,11 +1,7 @@
 # Custom-PCB-Arcade-Console-Embedded-C-Coded-Game-Engine-Longhorn-Racer-
 This is my C coded video game, Longhorn Racer, which is implemented on a custom PCB video game console
 
-Please see
-<a href="https://youtube.com" target="_blank">
-   <img src="[https://youtube.com](https://youtu.be/efSY2miP3bw?si=rm0MrgWzhUOSOycD)" alt="this YouTube video" width="480" height="360" border="10" />
-</a>
-for a video demonstration on gameplay :)
+Please see this YouTube video for a video demonstration on gameplay :) https://youtu.be/efSY2miP3bw?si=rm0MrgWzhUOSOycD
 <br><br>
 
 - Designed custom PCB (KiCAD)  integrating ARM Cortex MCU with ST7735 LCD, ADC potentiometer, audio DAC, and LEDs 
@@ -14,7 +10,7 @@ for a video demonstration on gameplay :)
 - Developed a C graphics engine with sprite collision detection & chroma keying to composite sprites onto background matrices 
 - Implemented fixed point math & localized string matrix for multi language gameplay, minimizing overhead within a 128 kB MCU footprint
 
-<img width="385" height="510" alt="Gameplay Image" src="https://github.com/user-attachments/assets/99cffab4-4b00-4b1c-b606-ef77105c236f" />
+<img width="385" height="490" alt="Gameplay Image" src="https://github.com/user-attachments/assets/99cffab4-4b00-4b1c-b606-ef77105c236f" />
 
 <br><br>
 Schematic and layout for reference
@@ -32,11 +28,7 @@ PCB editor in KiCAD
 Physical Custom PCB with all parts soldered 
 This is what the gameplay looks like
 <br><br>
-Please see
-<a href="https://youtube.com" target="_blank">
-   <img src="[https://youtube.com](https://youtu.be/efSY2miP3bw?si=rm0MrgWzhUOSOycD)" alt="this YouTube video" width="480" height="360" border="10" />
-</a>
-for a video demonstration on gameplay :)
+Again, please see this YouTube video for a video demonstration on gameplay :) https://youtu.be/efSY2miP3bw?si=rm0MrgWzhUOSOycD
 <br><br>
 <img width="485" height="600" alt="Gameplay Image" src="https://github.com/user-attachments/assets/99cffab4-4b00-4b1c-b606-ef77105c236f" />
 

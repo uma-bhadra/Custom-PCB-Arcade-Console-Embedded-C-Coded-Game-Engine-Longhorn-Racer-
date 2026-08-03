@@ -1,5 +1,5 @@
 # Custom-PCB-Arcade-Console-Embedded-C-Coded-Game-Engine-Longhorn-Racer-
-This is my C coded video game, Longhorn Racer, which is implemented on a custom PCB video game console
+This is my C coded video game, Longhorn Racer, which is implemented on a custom PCB video game console which I made in KiCAD
 
 Please see this YouTube video for a video demonstration on gameplay :) https://youtu.be/efSY2miP3bw?si=rm0MrgWzhUOSOycD
 <br><br>
